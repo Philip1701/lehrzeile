@@ -1,5 +1,6 @@
 title = "Lehrzeile"
 baseurl = "/lehrzeile/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
