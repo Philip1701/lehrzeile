@@ -35,7 +35,7 @@
 
 [[main]]
   name = "HBF M1"
-  url = "/hbf1/0-organisatorisches/themenübersicht/"
+  url = "/hbf1/0-organisatorisches/themenübersicht-unterstufe/"
   weight = 10
 
 [[main]]
