@@ -34,12 +34,12 @@
 #   weight = 10
 
 [[main]]
-  name = "HBF M1"
+  name = "HBF Unterstufe"
   url = "/hbf1/0-organisatorisches/themenübersicht-unterstufe/"
   weight = 10
 
 [[main]]
-  name = "HBF M2"
+  name = "HBF Oberstufe"
   url = "/hbf2/0-organisatorisches/themenübersicht/"
   weight = 20
 
