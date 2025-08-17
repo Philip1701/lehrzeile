@@ -7,7 +7,7 @@ toc: false
 
 Diese Seite soll einen Überblick über das Fach Mathematik in der HBF Oberstufe verschaffen. Hierzu dient u. a. die Übersicht über die Themen.
 
-Welche Themen wiederum bereits in der HBF Unterstufe behandelt wurden, findest du [hier](/hbf1/0-organisatorisches/themenübersicht/).
+Welche Themen wiederum bereits in der HBF Unterstufe behandelt wurden, findest du [hier](/hbf1/0-organisatorisches/themenübersicht-unterstufe/).
 
 ## Übersicht der Themen der HBF Oberstufe
 
