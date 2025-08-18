@@ -21,13 +21,13 @@ Eine Zuordnung kann dabei ein- oder mehrdeutig sein. Das bedeutet, dass ein Elem
 
 ### Verdeutlichung an einem Beispiel
 
-{{< box-question title="Beispiel #1:" >}}
+{{< box-example title="Beispiel #1:" >}}
 
 - Menge $A$: Menge an Schülerinnen und Schüler
 - Menge $B$: Menge aller Sitzplätze im Klassenzimmer
 - Zuordnung $A \rightarrow B$: Den Schülerinnen und Schülern wird ein Sitzplatz zugewiesen.
 
-{{< /box-question >}}
+{{< /box-example >}}
 
 **Wichtig:** Im Falle einer Zuordnung wie dieser darf es vorkommen, dass Sitzplätze frei bleiben, Schülerinnen und Schüler leer ausgehen (also keinen Sitzplatz erhalten) oder zwei oder mehrere Schülerinnen und Schüler ein und demselben Sitzplatz zugewiesen werden.
 
