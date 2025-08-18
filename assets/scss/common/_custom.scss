@@ -414,6 +414,28 @@ blockquote {
     }
 }
 
+.callout.callout-question {
+    border-color: var(--callout-question-transparent);
+    background-color: var(--callout-question-transparent);
+    .callout-title {
+        color: var(--callout-question);
+    }
+    svg {
+        stroke: var(--callout-question);
+    }
+}
+
+.callout.callout-example {
+    border-color: var(--callout-example-transparent);
+    background-color: var(--callout-example-transparent);
+    .callout-title {
+        color: var(--callout-example);
+    }
+    svg {
+        stroke: var(--callout-example);
+    }
+}
+
 .callout.callout-job > .callout-content > .callout-body > ol {
     margin: 0 0 0 1.25em !important;
     padding: 0 !important;
