@@ -17,7 +17,7 @@ Die lokale Änderungsrate heißt auch **Ableitung der Funktion an der Stelle $x_
 Geschrieben $f'(x)$ (gesprochen: "f Strich von x null").
 
 {{< box-notice >}}
-Die lokale/momentane Änderungsrate einer Funktion ist die **Steigung der Tangente** am Graphen in einem bestimmten Punkt. Mit der momentanen Änderungsrate, die man auch **Ableitung** nennt, kann man die Steigung in jedem beliebigen Punkt einer Kurve bestimmen.
+Die lokale bzw. momentane Änderungsrate einer Funktion entspricht der **Steigung der Tangenten** am Graphen in einem bestimmten Punkt. Mit der momentanen Änderungsrate, die man auch **Ableitung** nennt, kann man die Steigung in jedem beliebigen Punkt einer Kurve bestimmen.
 {{< /box-notice >}}
 
 ## Bestimmen der lokalen Änderungsrate
