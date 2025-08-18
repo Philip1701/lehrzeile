@@ -1,8 +1,8 @@
 ---
-title: "Lokale Änderungsrate"
+title: "Lokale Änderungsrate - final"
 description: ""
 summary: ""
-draft: true
+draft: false
 weight: 401
 toc: true
 math: true # für die Nutzung von KaTeX
