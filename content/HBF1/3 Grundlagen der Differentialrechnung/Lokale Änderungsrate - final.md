@@ -57,9 +57,9 @@ Sei die Funktion $f$ gegeben mit $f(x)=\frac14 x^2 - 4x + 5$.
 Gesucht wird die lokale Änderungsrate im Punkt $\left(2|f(2)\right)$.
 {{< /box-example >}}
 
-### Methode #3: Anwenden der Ableitungsregeln
+### Methode #3: Steigung in einem Punkt berechnen $\rightarrow$ Funktion ableiten
 
-folgt...
+{{< youtube wo1htpyG9w8 >}}
 
 ## Interpretation der lokalen Änderungsrate im Beispielkontext
 
