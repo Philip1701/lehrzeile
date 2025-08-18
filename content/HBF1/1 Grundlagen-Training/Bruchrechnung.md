@@ -7,4 +7,14 @@ math: true # für die Nutzung von KaTeX
 count: 0 # für die Nummerierung der Aufgaben
 ---
 
-## Brüche als Teile eines Ganzen
+## Anteile von Größen
+
+folgt...
+
+## Umwandlung von Brüchen in Dezimalbrüche und umgekehrt
+
+folgt...
+
+## Bruchrechnung: Grundrechenarten
+
+folgt...
