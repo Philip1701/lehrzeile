@@ -41,7 +41,7 @@ Mit Hilfe des Differenzenquotienten lässt sich auch - allerdings nur näherungs
 {{< job title="Üben und Vertiefen" numbered="true" style="" name="" >}}
 Gegeben sei die Funktion $f$ mit $f(x)=\frac12 x^2 - 3x + 1$.
 
-Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f(3)\right)$, indem du schrittweise das Intervall um die gesuchte Stelle herum verkleinerst - sprich: die Intervallgrenzen verschiebst ($\pm 0,5 \rightarrow \pm 0,1 \rightarrow \pm 0,01$).
+Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f(3)\right)$, indem du die mittlere Änderungsrate des Intervalls um die gesuchte Stelle herum berechnest und dieses schrittweise verkleinerst - sprich: die Intervallgrenzen step-by-step nach innen verschiebst ($\pm 0,5 \rightarrow \pm 0,1 \rightarrow \pm 0,01$).
 {{< /job >}}
 
 <!-- ![image](Bestimmen_der_lokalen_Änderungsrate.jpeg) -->
@@ -51,6 +51,7 @@ Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f
 Wenn man - wie in der Aufgabe zuvor - händig das Intervall um die gesuchte Stelle herum verkleinert, erhält man eine gute Näherung für die lokale Änderungsrate. Schneller geht es mit einer sogenannten **Grenzwertbetrachtung**. Hierzu betrachten wir den Grenzwert des Differenzenquotienten - den **Differentialquotienten**.
 
 {{< youtube _L6wmTzod_I >}}
+
 {{< box-example >}}
 Sei die Funktion $f$ gegeben mit $f(x)=\frac14 x^2 - 4x + 5$.
 
