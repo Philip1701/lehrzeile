@@ -50,11 +50,11 @@ Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f
 
 Wenn man - wie in der Aufgabe zuvor - händig das Intervall um die gesuchte Stelle herum verkleinert, erhält man eine gute Näherung für die lokale Änderungsrate. Schneller geht es mit einer sogenannten **Grenzwertbetrachtung**. Hierzu betrachten wir den Grenzwert des Differenzenquotienten.
 
-{{< box-question title="Beispiel:" >}}
+{{< box-example >}}
 Sei die Funktion $f$ gegeben mit $f(x)=\frac14 x^2 - 4x + 5$.
 
 Gesucht wird die lokale Änderungsrate im Punkt $\left(2|f(2)\right)$.
-{{< /box-question >}}
+{{< /box-example >}}
 
 ### Methode #3: Anwenden der Ableitungsregeln
 
