@@ -110,13 +110,13 @@ Im Zusammenhang mit Funktionen solltest du dir die folgenden Begriffe merken:
 
 Um den Unterschied zwischen einer Zuordnung und einer Funktion verstehen zu können, schauen wir uns noch einmal das erste Beispiel von vorhin an und modifizieren es nun:
 
-{{< box-question title="Beispiel #1 - in abgewandelter Form:" >}}
+{{< box-example title="Beispiel #1 - in abgewandelter Form:" >}}
 Menge $A$: Menge an Schülerinnen und Schüler
 
 Menge $B$: Menge aller Sitzplätze im Klassenzimmer
 
 Funktion $A \rightarrow B$: <u>Jeder</u> Schülerin bzw. jedem Schüler wird <u>genau ein</u> Sitzplatz fest zugewiesen.
-{{< /box-question >}}
+{{< /box-example >}}
 
 **Wichtig:** Wenn es sich - wie in diesem veränderten Beispiel - um eine Funktion handelt, dann dürfen zwar auch Sitzplätze frei bleiben, jedoch darf es keine Schülerin bzw. keinen Schüler geben, der oder dem kein Sitzplatz zugewiesen wird. Es darf sogar vorkommen, dass alle Schülerinnen und Schüler denselben Sitzplatz zugewiesen bekommen.
 
