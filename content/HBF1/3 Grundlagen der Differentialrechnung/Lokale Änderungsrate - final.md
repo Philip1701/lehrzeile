@@ -29,7 +29,7 @@ Gegeben sei die Funktion $f_1$ mit $f_1(x)=\frac12 x^2 - 3x + 1$.
 
 1. Bestimme mithilfe des Differenzenquotienten die mittlere Steigung im Intervall $[-2;1]$.
 2. Bestimme nach demselben Prinzip die mittlere Steigung im gleichen Intervall, dieses Mal jedoch in Einerschritten ($[-2;-1]$, $[-1;0]$ und $[0;1]$).
-3. Treffe eine Aussage über einen möglichen Zusammenhang zwischen den mittleren Steigungen aus den Aufgabenteilen 1 und 2.
+3. Triff eine Aussage über einen möglichen Zusammenhang zwischen den mittleren Steigungen aus den Aufgabenteilen 1 und 2.
 {{< /job >}}
 
 ## Bestimmen der lokalen Änderungsrate
@@ -39,9 +39,9 @@ Gegeben sei die Funktion $f_1$ mit $f_1(x)=\frac12 x^2 - 3x + 1$.
 Mit Hilfe des Differenzenquotienten lässt sich auch - allerdings nur näherungsweise (!) - die lokale Änderungsrate an einer bestimmten Stelle des Funktionsgraphen bestimmen. Hierzu muss notwendigerweise das Intervall um die entsprechende Stelle herum sehr klein (!) gewählt werden.
 
 {{< job title="Üben und Vertiefen" numbered="true" style="" name="" >}}
-Gegeben sei die Funktion $f_1$ mit $f_1(x)=\frac12 x^2 - 3x + 1$.
+Gegeben sei die Funktion $f$ mit $f(x)=\frac12 x^2 - 3x + 1$.
 
-Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f(3)\right)$, indem du schrittweise die Intervallgrenzen verschiebst ($\pm 0,5 \rightarrow \pm 0,1 \rightarrow \pm 0,01$).
+Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f(3)\right)$, indem du schrittweise das Intervall um die gesuchte Stelle herum verkleinerst - sprich: die Intervallgrenzen verschiebst ($\pm 0,5 \rightarrow \pm 0,1 \rightarrow \pm 0,01$).
 {{< /job >}}
 
 <!-- ![image](Bestimmen_der_lokalen_Änderungsrate.jpeg) -->
