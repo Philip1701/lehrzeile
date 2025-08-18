@@ -80,11 +80,19 @@ Im Grunde kannst dir eine Funktion ein wenig so wie eine Maschine bzw. eine _bla
 
 {{< source type="image" text="madipedia" src="https://madipedia.de/images/thumb/4/43/Funktionsmaschine-groß.jpg/300px-Funktionsmaschine-groß.jpg" lastcall="13.08.2025" >}}
 
-Was passiert hier?
+Das passiert hier also:
 
 1. Der Eingabewert $x$ wird oben in diese Maschine hineingeworfen.
 2. Dieser wird dann durch die Funktion $f$ verarbeitet.
 3. Der Funktionswert $f(x)$ wird unten ausgegeben.
+
+{{< box-question title="Nachgedacht:" >}}
+Mach dir folgende Dinge klar:
+
+- Was passiert, wenn der Wert $x=5$ eingegeben wird und die Funktionsvorschrift $f(x)=3x-4$ lautet?
+- Was passiert, wenn man mehrmals hintereinander denselben Wert "eingibt"?
+
+{{< /box-question >}}
 
 ### Wichtige Begriffe im Zusammenhang mit Funktionen
 
