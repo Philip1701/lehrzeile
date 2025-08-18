@@ -551,14 +551,14 @@ details.solution:has(+ h1), details.solution:has(+ h2), details.solution:has(+ h
     }
 }
 
-.callout.callout-tip {
-    border-color: var(--callout-tip-transparent);
-    background-color: var(--callout-tip-transparent);
+.callout.callout-question {
+    border-color: var(--callout-question-transparent);
+    background-color: var(--callout-question-transparent);
     .callout-title {
-        color: var(--callout-tip);
+        color: var(--callout-question);
     }
     svg {
-        stroke: var(--callout-tip);
+        stroke: var(--callout-question);
     }
 }
 
