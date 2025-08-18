@@ -18,7 +18,7 @@ Anteile von Größen - wie etwa Bruchteile oder Prozente - geben an, welcher Tei
 <li>{{< bettermarks uebungscode="TPLB" seriesID="1671540589822214400" title="Als Bruch gegebene Größe in kleinere Einheit umwandeln" >}}</li>
 {{< /job >}}
 
-## Bruchrechnung: Grundrechenarten
+## Rechnen mit Brüchen (Grundrechenarten)
 
 Im engeren Sinn bezeichnet der Begriff **Bruchrechnung** das Rechnen mit gewöhnlichen Brüchen in der "Zähler-Bruchstrich-Nenner-Schreibweise".
 
