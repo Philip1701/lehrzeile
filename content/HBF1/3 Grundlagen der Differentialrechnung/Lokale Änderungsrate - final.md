@@ -2,7 +2,7 @@
 title: "Lokale Änderungsrate"
 description: ""
 summary: ""
-draft: false
+draft: true
 weight: 401
 toc: true
 math: true # für die Nutzung von KaTeX
@@ -22,7 +22,9 @@ Die lokale/momentane Änderungsrate einer Funktion ist die **Steigung der Tangen
 
 ## Bestimmen der lokalen Änderungsrate
 
-### Methode #1: Näherungstabelle
+### Methode #1: Näherungstabelle bzw. Differenzenquotient
+
+{{< youtube sXxK-JATrc0 >}}
 
 <!-- ![image](Bestimmen_der_lokalen_Änderungsrate.jpeg) -->
 
