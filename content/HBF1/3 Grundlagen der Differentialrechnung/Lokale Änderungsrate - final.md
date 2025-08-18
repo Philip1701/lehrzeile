@@ -46,10 +46,11 @@ Bestimme mithilfe des Differenzenquotienten die Steigung im Punkt $P_1 \left(3|f
 
 <!-- ![image](Bestimmen_der_lokalen_Änderungsrate.jpeg) -->
 
-### Methode #2: Grenzwertbetrachtung
+### Methode #2: Grenzwertbetrachtung $\rightarrow$ Der Differentialquotient
 
-Wenn man - wie in der Aufgabe zuvor - händig das Intervall um die gesuchte Stelle herum verkleinert, erhält man eine gute Näherung für die lokale Änderungsrate. Schneller geht es mit einer sogenannten **Grenzwertbetrachtung**. Hierzu betrachten wir den Grenzwert des Differenzenquotienten.
+Wenn man - wie in der Aufgabe zuvor - händig das Intervall um die gesuchte Stelle herum verkleinert, erhält man eine gute Näherung für die lokale Änderungsrate. Schneller geht es mit einer sogenannten **Grenzwertbetrachtung**. Hierzu betrachten wir den Grenzwert des Differenzenquotienten - den **Differentialquotienten**.
 
+{{< youtube _L6wmTzod_I >}}
 {{< box-example >}}
 Sei die Funktion $f$ gegeben mit $f(x)=\frac14 x^2 - 4x + 5$.
 
