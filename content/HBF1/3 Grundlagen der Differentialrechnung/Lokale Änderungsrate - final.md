@@ -26,7 +26,7 @@ Die lokale/momentane Änderungsrate einer Funktion ist die **Steigung der Tangen
 
 {{< youtube sXxK-JATrc0 >}}
 
-{{< job title="Üben und Vertiefen" >}}
+{{< job title="Üben und Vertiefen" numbered="true" style="" name="" >}}
 Gegeben sei die Funktion $f$ mit $f(x)=\frac12 x^2 - 3x + 1$.
 
 1. Bestimme mithilfe des Differenzenquotienten die Steigung im Intervall $[-2;1]$.

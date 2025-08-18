@@ -45,7 +45,7 @@ Hat man es mit einer linearen oder quadratischen Funktion zu tun, so lassen sich
 
 {{< youtube oywjcZxfwS4 >}}
 
-{{< job name="" numbered="false" style="enum-arabic" name="Beobachtungsauftrag" >}}
+{{< job title="" numbered="false" style="enum-arabic" name="Beobachtungsauftrag" >}}
     <li>Schaue dir zunächst aufmerksam das Video an.</li>
     <li>Betrachte das Video nun ein zweites Mal und schreibe die Beispielaufgabe mit.</li>
 {{< /job >}}
