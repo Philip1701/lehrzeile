@@ -91,6 +91,7 @@ Mach dir folgende Dinge klar:
 
 - Was passiert, wenn der Wert $x=5$ eingegeben wird und die Funktionsvorschrift $f(x)=3x-4$ lautet?
 - Was passiert, wenn man mehrmals hintereinander denselben Wert "eingibt"?
+- Welchen Wert muss man in die Funktion $f(x)=2x+3$ eingegeben, um den Wert $33$ zu erhalten?
 
 {{< /box-question >}}
 
