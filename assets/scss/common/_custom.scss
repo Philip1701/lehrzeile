@@ -355,6 +355,10 @@ blockquote {
     }
 }
 
+.callout-jobs, .callout-job {
+    border-left-width: 0 !important;
+}
+
 .callout-title > p {
     margin-top: 0.15em;
     margin-bottom: 0 !important;
@@ -692,12 +696,12 @@ ul li::marker, ol li::marker {
     padding-bottom: 50px;
 }
 
-main ol, main ul { 
+main ol, main ul {
     margin-top: 0.25em !important;
     margin-bottom: 0.25em !important;
 }
 
-main ol > li > ol, main ul > li > ul { 
+main ol > li > ol, main ul > li > ul {
     margin-top: 0 !important;
     margin-bottom: 0.25em !important;
 }
@@ -706,19 +710,19 @@ ol.breadcrumb {
     margin-top: 2.75em !important
 }
 
-.blog-header > h1 { 
+.blog-header > h1 {
     box-shadow: none;
     width: 100%;
 }
 
-.lead { 
+.lead {
     padding-bottom: 2em;
     margin-bottom: 4em;
     padding-top: 2em;
     position: relative;
 }
 
-// .lead:after { 
+// .lead:after {
 //     position: absolute;
 //     left: 0;
 //     bottom: 0;
