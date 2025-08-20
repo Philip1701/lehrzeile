@@ -96,9 +96,9 @@ Eine Möglichkeit - die hier vorgestellt wird - besteht darin, eine Wertetabelle
 
 {{< youtube M5VnezyzfiY >}}
 
-{{< job numbered="false" style="" name="Beobachtungsauftrag" >}}
-    <li>Betrachte dir zunächst das obige Video.</li>
-    <li>Schaue dir das Video nun ein zweites Mal an und schreibe die Beispielaufgaben in Ruhe mit. Mache dir dazu auch entsprechende Notizen.</li>
+{{< job numbered="false" style="enum-arabic" name="Beobachtungsauftrag" >}}
+    1. Betrachte dir zunächst das obige Video.
+    2. Schaue dir das Video nun ein zweites Mal an und schreibe die Beispielaufgaben in Ruhe mit. Mache dir dazu auch entsprechende Notizen.
 {{< /job >}}
 
 {{< job numbered="true" style="" title="bettermarks" entry="Teste dein Können mit Hilfe der folgenden Aufgabe bei bettermarks:" >}}
@@ -121,7 +121,7 @@ In einem der vorherigen Abschnitte hast du bereits gelernt, wie man eine Werteta
 
 {{< youtube GIruIAbLGFU >}}
 
-{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
+{{< job numbered="false" style="enum-alph" name="Beobachtungsauftrag" >}}
     <li>Wiederholung vorheriger Abschnitte:<br />Schaue dir das nachfolgende Video an und vollziehe das Aufstellen der Funktionsgleichung sowie das Bestimmen der $y$-Werte nach.</li>
     <li>Halte nun das Video an der Stelle <code>6:20</code> an und bestimme den $x$-Wert zum gegebenen $y$-Wert $3,5$. Kontrolliere anschließend deine Lösung, indem du das Video zu Ende schaust.</li>
 {{< /job >}}
