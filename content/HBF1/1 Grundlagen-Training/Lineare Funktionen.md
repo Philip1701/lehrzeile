@@ -121,7 +121,7 @@ In einem der vorherigen Abschnitte hast du bereits gelernt, wie man eine Werteta
 
 {{< youtube GIruIAbLGFU >}}
 
-{{< job numbered="false" style="enum-alph" name="Beobachtungsauftrag" >}}
+{{< job numbered="false" style="enum-arabic" name="Beobachtungsauftrag" >}}
     <li>Wiederholung vorheriger Abschnitte:<br />Schaue dir das nachfolgende Video an und vollziehe das Aufstellen der Funktionsgleichung sowie das Bestimmen der $y$-Werte nach.</li>
     <li>Halte nun das Video an der Stelle <code>6:20</code> an und bestimme den $x$-Wert zum gegebenen $y$-Wert $3,5$. Kontrolliere anschließend deine Lösung, indem du das Video zu Ende schaust.</li>
 {{< /job >}}

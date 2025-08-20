@@ -100,23 +100,23 @@ Je nachdem, was man bestimmen möchte, eignen sich die drei Darstellungsformen -
 
 {{< youtube yuoe6BN-1YQ >}}
 
-{{< job name="" numbered="true" style="enum-alph" title="Üben und Vertiefen" entry="" >}}
-    1. folgt
-    2. folgt
-    3. folgt
-{{< /job >}}
-
 {{< youtube IM1WtnTYJK4 >}}
-
-{{< job name="" numbered="true" style="enum-alph" title="Üben und Vertiefen" entry="" >}}
-    1. folgt
-    2. folgt
-    3. folgt
-{{< /job >}}
 
 {{< job name="" numbered="false" style="enum-arabic" name="Beobachtungsauftrag" entry="Die beiden Videos beschäftigen sich mit dem Bestimmen von Nullstellen quadratischer Funktionen - mit und ohne p-q-Formel." >}}
     <li>Schaue dir zunächst aufmerksam das Video an.</li>
     <li>Betrachte das Video nun ein zweites Mal und schreibe die Beispielaufgabe mit.</li>
+{{< /job >}}
+
+{{< job name="" numbered="true" style="enum-alph" title="Üben und Vertiefen" entry="" >}}
+    <li>folgt</li>
+    <li>folgt</li>
+    <li>folgt</li>
+{{< /job >}}
+
+{{< job name="" numbered="true" style="enum-alph" title="Üben und Vertiefen" entry="" >}}
+    <li>folgt</li>
+    <li>folgt</li>
+    <li>folgt</li>
 {{< /job >}}
 
 {{< box-note title="Zur Erinnerung:" >}}
