@@ -17,7 +17,7 @@ Die binomischen - nicht bi**o**nomischen (!) - Formeln sind besonders nützlich,
 
 {{< youtube -laNxxdV5QY >}}
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" columns="" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" columns="" >}}
     <li>{{< bettermarks uebungscode="QGUG" seriesID="1669010761260728704" title="Mit der ersten binomischen Formel ausmultiplizieren" >}}</li>
     <li>{{< bettermarks uebungscode="8QCA" seriesID="1669011209380167808" title="Mit der ersten binomischen Formel als Produkt schreiben" >}}</li>
     <hr>
