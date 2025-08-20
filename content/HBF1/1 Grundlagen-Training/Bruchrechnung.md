@@ -13,7 +13,7 @@ Das Rechnen mit Brüchen stellt eine zentrale Kompetenz dar. Mit Hilfe von Brüc
 
 Anteile von Größen - wie etwa Bruchteile oder Prozente - geben an, welcher Teil einer Gesamtmenge oder eines Ganzen gemeint ist. Um einen Bruchteil einer solchen Größe zu berechnen, teilt man die gegebene Größe durch den Nenner des Bruchs und multipliziert das Ergebnis mit dessen Zähler. Bei Prozenten wird die vorhandene Größe mit dem gegebenen Prozentsatz multipliziert.
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
 <li>{{< bettermarks uebungscode="8V7D" seriesID="1671540284988588288" title="Anteil einer Größe berechnen - mit Umwandeln" >}}</li>
 <li>{{< bettermarks uebungscode="TPLB" seriesID="1671540589822214400" title="Als Bruch gegebene Größe in kleinere Einheit umwandeln" >}}</li>
 {{< /job >}}
@@ -22,7 +22,7 @@ Anteile von Größen - wie etwa Bruchteile oder Prozente - geben an, welcher Tei
 
 Im engeren Sinn bezeichnet der Begriff **Bruchrechnung** das Rechnen mit gewöhnlichen Brüchen in der "Zähler-Bruchstrich-Nenner-Schreibweise".
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
 <li>{{< bettermarks uebungscode="AWCB" seriesID="1671539509101068416" title="Brüche addieren" >}}</li>
 <li>{{< bettermarks uebungscode="JUQC" seriesID="1671539651095035904" title="Brüche subtrahieren" >}}</li>
 <li>{{< bettermarks uebungscode="L42A" seriesID="1671539188991787264" title="Brüche addieren und subtrahieren" >}}</li>

@@ -57,7 +57,7 @@ Eine Anleitung, wie das am praktischen Beispiel funktioniert, findest du hier:
 
 {{< youtube 5L7O_3giIps >}}
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
     <li>{{< bettermarks uebungscode="3YBP" seriesID="1666766210978546048" title="Steigung einer Geraden ablesen" >}}</li>
     <li>{{< bettermarks uebungscode="AL61" seriesID="1666767508096418048" title="Funktionsgleichung zum Graphen einer linearen Funktion bestimmen" >}}</li>
     <li>{{< bettermarks uebungscode="GME1" seriesID="1666766751972458880" title="Funktionsgleichung zu einer Geraden bestimmen" >}}</li>
@@ -77,13 +77,13 @@ Eine Wertetabelle wiederum ist eine tabellarische Darstellung, die die Zuordnung
     <li>$f_4(x)= 1$</li>
 {{< /job >}}
 
-## Den Graphen einer linearen Funktion zeichnen
+## Graphen ähnlicher linearer Funktionen zeichnen
 
-Wie du den Graphen einer linearen Funktion zeichnest, lernst du hier:
+In diesem Abschnitt geht es darum, wie man die Graphen einander ähnlicher linearer Funktionen zeichnet.
 
-{{< youtube 50E1gIunhzE >}}
+Rufe dir hierzu noch einmal das Video aus dem Abschnitt [Der Graph einer linearen Funktion](/hbf1/1-grundlagen-training/lineare-funktionen/#der-graph-einer-linearen-funktion) in Erinnerung.
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
     <li>{{< bettermarks uebungscode="321G" seriesID="1666778532463771904" title="Graphen linearer Funktionen mit gleichen Steigungen oder gleichen y-Achsenabschnitten zeichnen">}}</li>
     <li>{{< bettermarks uebungscode="Y7JQ" seriesID="1666779187962183936" title="Graph einer linearen Funktion zu gegebener Funktionsgleichung zeichnen" >}}</li>
     <li>{{< bettermarks paper="true" uebungscode="2BYU" seriesID="1666750685397410817" title="Graphen linearer Funktionen auf Papier zeichnen - Achseneinteilung geeignet wählen" >}}</li>
@@ -96,10 +96,13 @@ Eine Möglichkeit - die hier vorgestellt wird - besteht darin, eine Wertetabelle
 
 {{< youtube M5VnezyzfiY >}}
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="false" style="" name="Beobachtungsauftrag" >}}
     <li>Betrachte dir zunächst das obige Video.</li>
     <li>Schaue dir das Video nun ein zweites Mal an und schreibe die Beispielaufgaben in Ruhe mit. Mache dir dazu auch entsprechende Notizen.</li>
-    <li>Teste dein Können mit Hilfe der folgenden Aufgaben bei bettermarks:<br />{{< bettermarks uebungscode="U5TA" seriesID="1667066778770997376" title="Funktionsgleichung zu gegebener Wertetabelle bestimmen" >}}</li>
+{{< /job >}}
+
+{{< job numbered="true" style="" title="bettermarks" entry="Teste dein Können mit Hilfe der folgenden Aufgabe bei bettermarks:" >}}
+    {{< bettermarks uebungscode="U5TA" seriesID="1667066778770997376" title="Funktionsgleichung zu gegebener Wertetabelle bestimmen" >}}
 {{< /job >}}
 
 ## Lineare Funktion durch zwei Punkte
@@ -108,7 +111,7 @@ Ist lediglich der Graph der Funktion $f$ gegeben, so besteht eine zweite Möglic
 
 {{< youtube kPofqbNlkM4 >}}
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="" title="bettermarks" >}}
     {{< bettermarks uebungscode="E9X8" seriesID="1667069123965747328" title="Geradengleichung aus zwei Punkten bestimmen" >}}
 {{< /job >}}
 
@@ -118,7 +121,7 @@ In einem der vorherigen Abschnitte hast du bereits gelernt, wie man eine Werteta
 
 {{< youtube GIruIAbLGFU >}}
 
-{{< job numbered="true" style="enum-arabic" title="bettermarks" >}}
+{{< job numbered="true" style="enum-alph" title="bettermarks" >}}
     <li>Wiederholung vorheriger Abschnitte:<br />Schaue dir das nachfolgende Video an und vollziehe das Aufstellen der Funktionsgleichung sowie das Bestimmen der $y$-Werte nach.</li>
     <li>Halte nun das Video an der Stelle <code>6:20</code> an und bestimme den $x$-Wert zum gegebenen $y$-Wert $3,5$. Kontrolliere anschließend deine Lösung, indem du das Video zu Ende schaust.</li>
 {{< /job >}}
